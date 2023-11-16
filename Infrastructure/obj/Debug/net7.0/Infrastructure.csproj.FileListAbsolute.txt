@@ -1,0 +1,15 @@
+D:\Angular\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Angular\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Angular\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Angular\Infrastructure\bin\Debug\net7.0\Core.dll
+D:\Angular\Infrastructure\bin\Debug\net7.0\Core.pdb
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Angular\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Angular\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Angular\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
